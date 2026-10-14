@@ -1,0 +1,2 @@
+azure-mgmt-cognitiveservices @ git+https://github.com/Azure/azure-sdk-for-python.git@d7960c60f8aaffc4def7333c4df42aab8b58fdac#subdirectory=sdk/cognitiveservices/azure-mgmt-cognitiveservices
+azure-identity>=1.25.0
